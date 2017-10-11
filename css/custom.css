@@ -1,0 +1,106 @@
+body {
+    background-color: #004800;
+}
+
+.masthead .intro-body .brand-heading {
+    font-size: 80px;
+}
+
+.btn-circle:focus {
+    box-shadow: 0 0 0 3px rgba(28, 129, 3, 0.25);
+}
+
+#mainNav.navbar-shrink {
+    background-color: #e7e7e7;
+}
+
+#mainNav a {
+    color: #D1A814;
+}
+
+#mainNav .nav-link.active:hover, #mainNav.navbar-shrink .nav-link.active {
+    color: #926e11;
+background-color: rgba(158, 158, 158, 0.3);
+}
+
+.btn-principal {
+    background-color: #004800;
+    border-color: #004800;
+}
+.btn-principal:hover,
+.btn-principal:focus,
+.btn-principal:active,
+.btn-principal.active {
+    background-color: #002f00;
+    border-color: #001500;
+}
+.btn-principal.disabled:hover,
+.btn-principal.disabled:focus,
+.btn-principal.disabled:active,
+.btn-principal.disabled.active,
+.btn-principal[disabled]:hover,
+.btn-principal[disabled]:focus,
+.btn-principal[disabled]:active,
+.btn-principal[disabled].active,
+fieldset[disabled] .btn-principal:hover,
+fieldset[disabled] .btn-principal:focus,
+fieldset[disabled] .btn-principal:active,
+fieldset[disabled] .btn-principal.active {
+    background-color: #004800;
+    border-color: #004800;
+}
+
+.btn-secundar {
+    background-color: #D1A814;
+    border-color: #D1A814;
+}
+.btn-secundar:hover,
+.btn-secundar:focus,
+.btn-secundar:active,
+.btn-secundar.active {
+    background-color: #ba9512;
+    border-color: #a28310;
+}
+.btn-secundar.disabled:hover,
+.btn-secundar.disabled:focus,
+.btn-secundar.disabled:active,
+.btn-secundar.disabled.active,
+.btn-secundar[disabled]:hover,
+.btn-secundar[disabled]:focus,
+.btn-secundar[disabled]:active,
+.btn-secundar[disabled].active,
+fieldset[disabled] .btn-secundar:hover,
+fieldset[disabled] .btn-secundar:focus,
+fieldset[disabled] .btn-secundar:active,
+fieldset[disabled] .btn-secundar.active {
+    background-color: #D1A814;
+    border-color: #D1A814;
+}
+
+.btn-custom {
+    background-color: #2E0B73;
+    border-color: #2E0B73;
+}
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active {
+    background-color: #25095c;
+    border-color: #1b0744;
+}
+.btn-custom.disabled:hover,
+.btn-custom.disabled:focus,
+.btn-custom.disabled:active,
+.btn-custom.disabled.active,
+.btn-custom[disabled]:hover,
+.btn-custom[disabled]:focus,
+.btn-custom[disabled]:active,
+.btn-custom[disabled].active,
+fieldset[disabled] .btn-custom:hover,
+fieldset[disabled] .btn-custom:focus,
+fieldset[disabled] .btn-custom:active,
+fieldset[disabled] .btn-custom.active {
+    background-color: #2E0B73;
+    border-color: #2E0B73;
+}
+
