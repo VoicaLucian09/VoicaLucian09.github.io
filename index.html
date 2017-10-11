@@ -134,22 +134,6 @@
     <!-- Map Section -->
     <div id="map"></div>
 
-    <textarea id="myText">
-        Lorem ipsum...
-    </textarea>
-    <button onclick="sendMail(); return false">Send</button>
-    <script>
-        function sendMail() {
-            var link = "mailto:voica_94@yahoo.com"
-             //   + "?cc=myCCaddress@example.com"
-                + "&subject=" + escape("This is my subject")
-                + "&body=" + escape(document.getElementById('myText').value)
-            ;
-    console.log(link);
-            window.location.href = link;
-        }
-    </script>
-
     <!-- Footer -->
     <footer>
       <div class="container text-center">
